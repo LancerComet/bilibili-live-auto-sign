@@ -1,0 +1,14 @@
+{
+  "name": "bilibili-live-sign",
+  "version": "1.0.0",
+  "description": "Auto sign everyday.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LancerComet",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^1.8.3"
+  }
+}
